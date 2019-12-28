@@ -4,7 +4,7 @@
 # Site settings
 title: NISHANT GUPTA
 description: |
-  A PORTFOLIO AND RESUME
+  DATA SCIENTIST, WRITER, INTJ
 owner: Nishant Gupta # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
 email: im.nishantg@gmail.com
@@ -13,13 +13,13 @@ url: "http://imnishantg.com" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/imnishantg
   github: https://github.com/imnishantg
-  linkedin-square: https://www.linkedin.com/in/imnishantg/
-  facebook-official: https://facebook.com/imnishantg
+  linkedin-square: https://www.linkedin.com/in/imnishantg
+  facebook-official: https://www.facebook.com/imnishantg
   # google-plus-square: https://plus.google.com/u/0/+<username>
-  email: im.nishantg@gmail.com
+  email: mailto:im.nishantg@gmail.com
   #flickr:
   #instagram:
-  #youtube-square:
+  youtube-square: https://www.youtube.com/c/NishantGupta2
   #spotify:
   #stack-overflow:
   #vimeo:
