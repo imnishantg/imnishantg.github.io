@@ -4,19 +4,19 @@
 # Site settings
 title: NISHANT GUPTA
 description: |
-  DATA SCIENTIST, CREATOR, INTJ
+  DATA SCIENTIST, CREATOR
 owner: Nishant Gupta # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
-email: im.nishantg@gmail.com
+email: connect.nishantgupta@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nishantgupta.me/" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/imnishantg
   github: https://github.com/imnishantg
   linkedin-square: https://www.linkedin.com/in/imnishantg
-  facebook-official: https://www.facebook.com/imnishantg
+  # facebook-official: https://www.facebook.com/imnishantg
   # google-plus-square: 
-  email: mailto:im.nishantg@gmail.com
+  email: mailto:connect.nishantgupta@gmail.com
   #flickr:
   #instagram:
   youtube-square: https://www.youtube.com/c/NishantGupta2
